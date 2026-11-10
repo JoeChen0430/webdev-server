@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "A101",
+    "title": "A1 - ENV + HTML",
+    "course": "RS101",
+    "points": 100,
+    "due": "2024-05-13",
+    "available": "2024-05-06",
+    "until": "2024-05-13",
+    "description": "Submit a link to the landing page of your Web application running on Vercel."
+  },
+  {
+    "_id": "A102",
+    "title": "A2 - CSS + TAILWIND",
+    "course": "RS101",
+    "points": 100,
+    "due": "2024-05-20",
+    "available": "2024-05-13",
+    "until": "2024-05-20",
+    "description": "Style the Kambaz screens with CSS and Tailwind utility classes."
+  },
+  {
+    "_id": "A103",
+    "title": "A3 - JAVASCRIPT + REACT",
+    "course": "RS101",
+    "points": 100,
+    "due": "2024-05-27",
+    "available": "2024-05-20",
+    "until": "2024-05-27",
+    "description": "Make the Kambaz screens data driven with JavaScript and JSON."
+  },
+  {
+    "_id": "A104",
+    "title": "A4 - NODE + MONGODB",
+    "course": "RS101",
+    "points": 100,
+    "due": "2024-06-03",
+    "available": "2024-05-27",
+    "until": "2024-06-03",
+    "description": "Back the Kambaz screens with a Node server and a MongoDB database."
+  },
+  {
+    "_id": "A201",
+    "title": "A1 - Airfoil Analysis",
+    "course": "RS102",
+    "points": 100,
+    "due": "2024-05-15",
+    "available": "2024-05-08",
+    "until": "2024-05-15",
+    "description": "Analyze lift and drag for three airfoil shapes."
+  },
+  {
+    "_id": "A202",
+    "title": "A2 - Wind Tunnel Report",
+    "course": "RS102",
+    "points": 100,
+    "due": "2024-05-22",
+    "available": "2024-05-15",
+    "until": "2024-05-22",
+    "description": "Write up the results of the wind tunnel experiment."
+  },
+  {
+    "_id": "A203",
+    "title": "A3 - Lift and Drag Lab",
+    "course": "RS102",
+    "points": 100,
+    "due": "2024-05-29",
+    "available": "2024-05-22",
+    "until": "2024-05-29",
+    "description": "Measure lift and drag coefficients in the lab."
+  },
+  {
+    "_id": "A204",
+    "title": "A4",
+    "course": "RS102",
+    "points": 100,
+    "due": "2024-06-03",
+    "available": "2024-05-27",
+    "until": "2024-06-03",
+    "description": "Compare aerodynamic drag across three fuselage profiles."
+  },
+  {
+    "_id": "A301",
+    "title": "A1 - Structures Problem Set",
+    "course": "RS103",
+    "points": 100,
+    "due": "2024-05-18",
+    "available": "2024-05-11",
+    "until": "2024-05-18",
+    "description": "Solve the launch load problem set."
+  },
+  {
+    "_id": "A501",
+    "title": "A3 - JavaScript and Data",
+    "course": "RS105",
+    "points": 100,
+    "due": "2026-10-15",
+    "available": "2026-10-01",
+    "until": "2026-10-15",
+    "description": "Drive every Kambaz screen from the JSON database."
+  }
+]
